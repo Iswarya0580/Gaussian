@@ -24,6 +24,7 @@ Developed by: ISWARYA.P
 RegisterNumber: 23013459
 */
 ```
+```
 import sys
 import numpy as np
 n=int(input())
